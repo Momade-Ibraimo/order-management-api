@@ -6,18 +6,18 @@ API REST para gerenciamento de pedidos de uma hamburgueria, desenvolvida com Nod
 >
 > | Repositório | Link |
 > |---|---|
-> | 🔧 **API (você está aqui)** | [order-management-api](https://github.com/Momade-Ibraimo/order-management-api) |
-> | 🖥️ **Frontend** | [app-pedidos-hamburgueria](https://github.com/Momade-Ibraimo/app-pedidos-hamburgueria) |
+> |  **API** | [order-management-api](https://github.com/Momade-Ibraimo/order-management-api) |
+> |  **Frontend** | [app-pedidos-hamburgueria](https://github.com/Momade-Ibraimo/app-pedidos-hamburgueria) |
 
 ---
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
 Desenvolvido para praticar conceitos fundamentais de back-end com Node.js e Express. Simula o sistema de gerenciamento de pedidos de uma hamburgueria, permitindo o controle completo dos pedidos através de uma API REST.
 
 ---
 
-## ✅ Funcionalidades
+##  Funcionalidades
 
 - Criar novos pedidos
 - Listar todos os pedidos
@@ -30,7 +30,7 @@ Desenvolvido para praticar conceitos fundamentais de back-end com Node.js e Expr
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Node.js
 - Express
@@ -40,7 +40,7 @@ Desenvolvido para praticar conceitos fundamentais de back-end com Node.js e Expr
 
 ---
 
-## 🔗 Endpoints da API
+##  Endpoints da API
 
 | Método | Endpoint | Descrição |
 |---|---|---|
@@ -53,7 +53,7 @@ Desenvolvido para praticar conceitos fundamentais de back-end com Node.js e Expr
 
 ---
 
-## ⚙️ Como rodar
+##  Como rodar
 
 ```bash
 # Clone o repositório
@@ -68,11 +68,11 @@ npm start
 
 A API ficará disponível em `http://localhost:3001`.
 
-> 💡 Após iniciar a API, suba também o frontend para usar a interface visual: [app-pedidos-hamburgueria](https://github.com/Momade-Ibraimo/app-pedidos-hamburgueria)
+>  Após iniciar a API, suba também o frontend para usar a interface visual: [app-pedidos-hamburgueria](https://github.com/Momade-Ibraimo/app-pedidos-hamburgueria)
 
 ---
 
-## 🧠 Conceitos praticados
+##  Conceitos praticados
 
 - APIs REST
 - Métodos HTTP (GET, POST, PUT, PATCH, DELETE)
@@ -84,6 +84,6 @@ A API ficará disponível em `http://localhost:3001`.
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Desenvolver uma API REST completa para consolidar conhecimentos de Node.js, Express e arquitetura CRUD..... 

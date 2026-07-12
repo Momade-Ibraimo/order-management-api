@@ -81,9 +81,3 @@ A API ficará disponível em `http://localhost:3001`.
 - Manipulação de arrays
 - Estruturação de aplicações Express
 - Geração de identificadores únicos com UUID
-
----
-
-##  Objetivo
-
-Desenvolver uma API REST completa para consolidar conhecimentos de Node.js, Express e arquitetura CRUD..... 

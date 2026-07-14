@@ -66,7 +66,7 @@ npm install
 npm start
 ```
 
-A API ficará disponível em `http://localhost:3001`.
+A API ficará disponível em `http://localhost:3001`..
 
 >  Após iniciar a API, suba também o frontend para usar a interface visual: [app-pedidos-hamburgueria](https://github.com/Momade-Ibraimo/app-pedidos-hamburgueria)
 
@@ -79,5 +79,5 @@ A API ficará disponível em `http://localhost:3001`.
 - Middlewares
 - Parâmetros de rota
 - Manipulação de arrays
-- Estruturação de aplicações Express
+- EstruturaçãMiddlewaresções Express
 - Geração de identificadores únicos com UUID

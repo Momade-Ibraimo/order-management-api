@@ -1,6 +1,6 @@
 # 🍔 Burger Orders API
 
-API REST para gerenciamento de pedidos de uma hamburgueria, desenvolvida com Node.js e Express..... 
+API REST para gerenciamento de pedidos de uma hamburgueria, desenvolvida com Node.js e Express....... 
 
 > ⚠️ **Este projeto faz parte de um sistema com dois repositórios que se comunicam. Para funcionar corretamente, a API e o Frontend precisam estar rodando na mesma máquina ao mesmo tempo.**
 >

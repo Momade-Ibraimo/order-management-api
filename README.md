@@ -1,4 +1,4 @@
-# 🍔 Burger Orders API
+#  Burger Orders API
 
 API REST para gerenciamento de pedidos de uma hamburgueria, desenvolvida com Node.js e Express....... 
 
